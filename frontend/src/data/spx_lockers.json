@@ -1,0 +1,2221 @@
+[
+  {
+    "id": 6584,
+    "name": "SPX Locker @ Thomson Plaza, Side Entrance Against Wall After Staircase Behind PopStation, S574408",
+    "lat": 1.354859,
+    "lng": 103.830891,
+    "orders": 340
+  },
+  {
+    "id": 5695,
+    "name": "SPX Locker @ Midview City, Blk 26 L1 Lift Lobby, S573960",
+    "lat": 1.35851,
+    "lng": 103.834031,
+    "orders": 240
+  },
+  {
+    "id": 6524,
+    "name": "SPX Locker @ 24hr Kirei Smart Car Wash, Midview City, S573960",
+    "lat": 1.358681,
+    "lng": 103.834139,
+    "orders": 240
+  },
+  {
+    "id": 5762,
+    "name": "SPX Locker @ Thomson V2, B2 Carpark Next To Parcel Santa, S575629",
+    "lat": 1.353478,
+    "lng": 103.835597,
+    "orders": 120
+  },
+  {
+    "id": 6497,
+    "name": "SPX Locker @ Joyful Wash Laundromat 24/7, S570403",
+    "lat": 1.362887,
+    "lng": 103.833274,
+    "orders": 108
+  },
+  {
+    "id": 5753,
+    "name": "SPX Locker @ Mapex Building, B1 Carpark, S577177",
+    "lat": 1.348939,
+    "lng": 103.840883,
+    "orders": 240
+  },
+  {
+    "id": 6615,
+    "name": "[Seasons View Condo Residents Only] SPX Locker @ Seasons View Condo, L1, Near the Male Washroom, S576149",
+    "lat": 1.352204,
+    "lng": 103.841518,
+    "orders": 120
+  },
+  {
+    "id": 5671,
+    "name": "SPX Locker @ Extra Space Marymount, Level 1 beside Office Entrance, S575654",
+    "lat": 1.357451,
+    "lng": 103.840935,
+    "orders": 240
+  },
+  {
+    "id": 6557,
+    "name": "SPX Locker @ M38 Building, Near Level 2 Outside Lift Lobby Carpark, S577178",
+    "lat": 1.348341,
+    "lng": 103.841691,
+    "orders": 260
+  },
+  {
+    "id": 5706,
+    "name": "SPX Locker @ One Pemimpin, L1 Carpark Space, S576151",
+    "lat": 1.352023,
+    "lng": 103.843028,
+    "orders": 240
+  },
+  {
+    "id": 6450,
+    "name": "SPX Locker @ FairPriceXpress - Greenwood Ave, S289230",
+    "lat": 1.331706,
+    "lng": 103.806522,
+    "orders": 24
+  },
+  {
+    "id": 5744,
+    "name": "SPX Locker @ 622 Lor 1 Toa Payoh, Carpark, Next To The Letterbox, S319763",
+    "lat": 1.334537,
+    "lng": 103.842618,
+    "orders": 260
+  },
+  {
+    "id": 6643,
+    "name": "SPX Locker @ Nice Minimart @ 126 Toa Payoh Lorong 1, S310126",
+    "lat": 1.338091,
+    "lng": 103.845079,
+    "orders": 120
+  },
+  {
+    "id": 5675,
+    "name": "[Horizon Gardens Residents Only] SPX Locker @ Horizon Gardens B1 Carpark, S569949",
+    "lat": 1.377127,
+    "lng": 103.83485,
+    "orders": 120
+  },
+  {
+    "id": 6560,
+    "name": "SPX Locker @ AMK Laundry @ 202 Ang Mo Kio, S560202",
+    "lat": 1.36846,
+    "lng": 103.844587,
+    "orders": 120
+  },
+  {
+    "id": 5676,
+    "name": "[Meadows @ Peirce Residents Only] SPX Locker @ Meadows @ Peirce, Block 628 Basement Carpark, Near the Vending Machines, S787130",
+    "lat": 1.381103,
+    "lng": 103.827207,
+    "orders": 120
+  },
+  {
+    "id": 6612,
+    "name": "SPX Locker @ Junction 8, B2 Carpark #B2-MAC-01, S579837",
+    "lat": 1.351097,
+    "lng": 103.849937,
+    "orders": 560
+  },
+  {
+    "id": 5765,
+    "name": "SPX Locker @ NTUC Club Clubhouse @ Bishan, L2 Next To Royale Room, S570510",
+    "lat": 1.348984,
+    "lng": 103.849796,
+    "orders": 240
+  },
+  {
+    "id": 6414,
+    "name": "SPX Locker @ Titan Wash Ang Mo Kio, Blk 181 Ang Mo Kio Ave 5, #01-2936, S560181",
+    "lat": 1.376857,
+    "lng": 103.837069,
+    "orders": 24
+  },
+  {
+    "id": 6487,
+    "name": "SPX Locker @ Crown Centre, L1 Beside Kiyo Grooming Services, S269694",
+    "lat": 1.322997,
+    "lng": 103.811211,
+    "orders": 440
+  },
+  {
+    "id": 5682,
+    "name": "[Oleander Towers Residents Only] SPX Locker @ Oleander Towers, MSCP Deck 1B, S319771",
+    "lat": 1.333372,
+    "lng": 103.843896,
+    "orders": 160
+  },
+  {
+    "id": 6590,
+    "name": "SPX Locker @ VIIO @ Balestier @ Lv 2 In front of Escalator towards Lv 3, S329853",
+    "lat": 1.327083,
+    "lng": 103.845837,
+    "orders": 340
+  },
+  {
+    "id": 6583,
+    "name": "[The Arte Residents Only] SPX Locker @ The Arte, Blk 23 Lift Lobby Near Recycling Bin Beside Fire Extinguisher, S329216",
+    "lat": 1.328391,
+    "lng": 103.842239,
+    "orders": 120
+  },
+  {
+    "id": 6447,
+    "name": "SPX Locker @ One Dusun, L1 In Front Of Residential Lobby, Space Opposite Security Desk, S329363",
+    "lat": 1.326743,
+    "lng": 103.843779,
+    "orders": 140
+  },
+  {
+    "id": 6633,
+    "name": "SPX Locker @ LaundroEasy @ 453 Balestier Rd #01-03, S329829",
+    "lat": 1.326086,
+    "lng": 103.84821,
+    "orders": 120
+  },
+  {
+    "id": 6620,
+    "name": "[For Papillon Residents Only] SPX Locker @ Papillon, Level 1 near the swimming pool, S 329089",
+    "lat": 1.327025,
+    "lng": 103.849252,
+    "orders": 120
+  },
+  {
+    "id": 5643,
+    "name": "SPX Locker @ Shaw Plaza, B1 Drop-off Point, S329783",
+    "lat": 1.323906,
+    "lng": 103.85159,
+    "orders": 240
+  },
+  {
+    "id": 6582,
+    "name": "SPX Locker @ J W Building, L1 Next To Bus Stop, S329754",
+    "lat": 1.323819,
+    "lng": 103.851552,
+    "orders": 300
+  },
+  {
+    "id": 6427,
+    "name": "SPX Locker @ Novena Regency, B1 Lift Lobby, S307645",
+    "lat": 1.321068,
+    "lng": 103.841643,
+    "orders": 260
+  },
+  {
+    "id": 5703,
+    "name": "SPX Locker @ Balestier Point, L1 Near Information Counter, S329727",
+    "lat": 1.322767,
+    "lng": 103.851969,
+    "orders": 240
+  },
+  {
+    "id": 6613,
+    "name": "[Soleil @ Sinaran Residents Only] SPX Locker @ Soleil @ Sinaran Condo, B1 Carpark, S307469",
+    "lat": 1.319275,
+    "lng": 103.845191,
+    "orders": 180
+  },
+  {
+    "id": 6632,
+    "name": "SPX Locker @ Goldhill Shopping Centre, L1 Beside Notice Board, S308899",
+    "lat": 1.318001,
+    "lng": 103.843642,
+    "orders": 480
+  },
+  {
+    "id": 6660,
+    "name": "SPX Locker @ Mama Laundry 24hrs Laundromat @ Blk 74 Whampoa Dr, #01-330, S320074",
+    "lat": 1.324798,
+    "lng": 103.857833,
+    "orders": 120
+  },
+  {
+    "id": 6657,
+    "name": "SPX Locker @ Fresh Laundromat @ 8 Lor 7 Toa Payoh, S310008",
+    "lat": 1.337814,
+    "lng": 103.856818,
+    "orders": 200
+  },
+  {
+    "id": 6641,
+    "name": "SPX Locker @ Nice Minimart @ Blk 44 Owen Rd, S210044",
+    "lat": 1.315567,
+    "lng": 103.850384,
+    "orders": 120
+  },
+  {
+    "id": 6653,
+    "name": "[Rochelle@Newton Residents Only] SPX Locker @ Rochelle@Newton, L1 Between Main Lobby and Car Park, S308414",
+    "lat": 1.313689,
+    "lng": 103.842001,
+    "orders": 120
+  },
+  {
+    "id": 5690,
+    "name": "SPX Locker @ Balmoral Plaza, L1 outside mall beside POPstation, S259708",
+    "lat": 1.316147,
+    "lng": 103.835818,
+    "orders": 380
+  },
+  {
+    "id": 6600,
+    "name": "[The Legend Residents Only] SPX Locker @ The Legend, B1 Carpark, S259725",
+    "lat": 1.318454,
+    "lng": 103.829365,
+    "orders": 80
+  },
+  {
+    "id": 5735,
+    "name": "[Sky Vue Residents Only] SPX Locker @ Sky Vue, B1 Carpark, S573910",
+    "lat": 1.352104,
+    "lng": 103.850735,
+    "orders": 240
+  },
+  {
+    "id": 5747,
+    "name": "SPX Locker @ Centrium Square, L1, Next to Escalator, S218108",
+    "lat": 1.310786,
+    "lng": 103.854823,
+    "orders": 240
+  },
+  {
+    "id": 6571,
+    "name": "SPX Locker @ Spin Anytime 24/7 Self-service Laundromat & Dry Cleaning, S328196",
+    "lat": 1.30526,
+    "lng": 103.850916,
+    "orders": 260
+  },
+  {
+    "id": 5679,
+    "name": "SPX Locker @ Tekka Place L2, Next To Anytime Fitness, S218227",
+    "lat": 1.305063,
+    "lng": 103.851426,
+    "orders": 240
+  },
+  {
+    "id": 5348,
+    "name": "SPX Locker @ 51 Cuppage, Drop-off Point, S229469",
+    "lat": 1.302736,
+    "lng": 103.840439,
+    "orders": 120
+  },
+  {
+    "id": 5673,
+    "name": "SPX Locker @ The Centrepoint, L1 Outside Mall Near Taxi Stand, S238843",
+    "lat": 1.30198,
+    "lng": 103.839695,
+    "orders": 240
+  },
+  {
+    "id": 5349,
+    "name": "SPX Locker @ Far East Plaza, L1 near Nana Thai, S228213",
+    "lat": 1.306081,
+    "lng": 103.833743,
+    "orders": 376
+  },
+  {
+    "id": 5421,
+    "name": "SPX Locker @ Sim Lim Square, L1 Entrance near the Claw Machines, S188504",
+    "lat": 1.302933,
+    "lng": 103.852966,
+    "orders": 240
+  },
+  {
+    "id": 5674,
+    "name": "SPX Locker @ Burlington Square, Lv1 near mall entrance, S189649",
+    "lat": 1.302314,
+    "lng": 103.852569,
+    "orders": 240
+  },
+  {
+    "id": 5776,
+    "name": "SPX Locker @ OG Albert Complex, Outside #01-01, S189969",
+    "lat": 1.302214,
+    "lng": 103.853722,
+    "orders": 320
+  },
+  {
+    "id": 5657,
+    "name": "SPX Locker @ Sunshine Plaza, Beside Carpark Entrance, S189652",
+    "lat": 1.300531,
+    "lng": 103.850883,
+    "orders": 240
+  },
+  {
+    "id": 6645,
+    "name": "SPX Locker @ Nice Minimart @ 301 Serangoon Ave 2, S550301",
+    "lat": 1.353066,
+    "lng": 103.868,
+    "orders": 120
+  },
+  {
+    "id": 6461,
+    "name": "SPX Locker @ TechPlace 1, Block 4009 Near Lift Lobby, S569628",
+    "lat": 1.36044,
+    "lng": 103.856769,
+    "orders": 380
+  },
+  {
+    "id": 6544,
+    "name": "[Park Colonial Residents Only]SPX Locker @ Park Colonial @ B2 Lobby, S357688",
+    "lat": 1.3379,
+    "lng": 103.869517,
+    "orders": 240
+  },
+  {
+    "id": 5427,
+    "name": "SPX Locker @ Causeway Point, Near Drop-off Point Beside FCC, S738099",
+    "lat": 1.436093,
+    "lng": 103.785947,
+    "orders": 240
+  },
+  {
+    "id": 6518,
+    "name": "SPX Locker @ Stevie Wash @ 111 Woodlands, S730111",
+    "lat": 1.43792,
+    "lng": 103.7821,
+    "orders": 160
+  },
+  {
+    "id": 5677,
+    "name": "[Rosewood Residents Only] SPX Locker @ Rosewood L1 Carpark, Near Tower 9, S737939",
+    "lat": 1.431405,
+    "lng": 103.785904,
+    "orders": 120
+  },
+  {
+    "id": 5741,
+    "name": "[Casablanca Residents Only] SPX Locker @ Casablanca, Multi-Story Car Park L1, Near the\u00a0Bicycle\u00a0Lots, S737921",
+    "lat": 1.430038,
+    "lng": 103.785965,
+    "orders": 120
+  },
+  {
+    "id": 6626,
+    "name": "SPX Locker @ Cheers - Woodlands Vista Point, S739548",
+    "lat": 1.430686,
+    "lng": 103.794006,
+    "orders": 120
+  },
+  {
+    "id": 6448,
+    "name": "SPX Locker @ FairPriceXpress - Woodlands Health Campus, S737628",
+    "lat": 1.425879,
+    "lng": 103.791753,
+    "orders": 24
+  },
+  {
+    "id": 5723,
+    "name": "SPX Locker @ Junction 9, Beside Blk 317 Multistory Carpark Entrance, S768897",
+    "lat": 1.433221,
+    "lng": 103.841488,
+    "orders": 240
+  },
+  {
+    "id": 5666,
+    "name": "SPX Locker @ Stevie Wash Yishun St, 604 Yishun St 61, #01-325, S760604",
+    "lat": 1.421737,
+    "lng": 103.835438,
+    "orders": 20
+  },
+  {
+    "id": 6572,
+    "name": "[Eight Courtyards Residences Only] SPX Locker @ Eight Courtyards Condo, L1B Carpark, Near Management Office, S768141",
+    "lat": 1.438364,
+    "lng": 103.830961,
+    "orders": 340
+  },
+  {
+    "id": 5745,
+    "name": "SPX Locker @ 24hr Kirei Smart Car Wash, 2 Yishun Industrial St1, #01-10, North Point Bizhub, S768159",
+    "lat": 1.436228,
+    "lng": 103.842876,
+    "orders": 260
+  },
+  {
+    "id": 6440,
+    "name": "SPX Locker @ Kim San Leng @ 2 Yishun Industrial St 1, S768159",
+    "lat": 1.436228,
+    "lng": 103.842876,
+    "orders": 108
+  },
+  {
+    "id": 6540,
+    "name": "[Yishun Emerald Residents Only] SPX Locker @ Yishun Emerald Condo,  B1 Carpark Near Blk 22 Lift Lobby, S768432",
+    "lat": 1.439132,
+    "lng": 103.829996,
+    "orders": 200
+  },
+  {
+    "id": 5700,
+    "name": "SPX Locker @ Sun Plaza, Beside Residential Lift Lobby 1, S757713",
+    "lat": 1.448268,
+    "lng": 103.819689,
+    "orders": 240
+  },
+  {
+    "id": 5651,
+    "name": "[Skypark Residences Residents Only] SPX Locker @ Skypark Residences, Leftside of Dropoff Point, S757094",
+    "lat": 1.444061,
+    "lng": 103.820186,
+    "orders": 260
+  },
+  {
+    "id": 5633,
+    "name": "SPX Locker @ Proxima @ Gambas, L1 Carpark Beside Vending Machine, S757022",
+    "lat": 1.442174,
+    "lng": 103.818277,
+    "orders": 280
+  },
+  {
+    "id": 6586,
+    "name": "SPX Locker @ Nordcom ll, Loading Bay 1 Near Vending Machine, S757044",
+    "lat": 1.443564,
+    "lng": 103.815264,
+    "orders": 420
+  },
+  {
+    "id": 5728,
+    "name": "[The Visionaire Residents Only] SPX Locker @ The Visionaire, B1 Carpark Near Block 188, S767956",
+    "lat": 1.445863,
+    "lng": 103.826715,
+    "orders": 120
+  },
+  {
+    "id": 5678,
+    "name": "SPX Locker @ Nordcom 1, L1 Loading Bay, S757088",
+    "lat": 1.444089,
+    "lng": 103.813993,
+    "orders": 240
+  },
+  {
+    "id": 6623,
+    "name": "SPX Locker @ Ascent @ Gambas, L1 DOP Beside Letterbox, S756939",
+    "lat": 1.441214,
+    "lng": 103.81972,
+    "orders": 200
+  },
+  {
+    "id": 5656,
+    "name": "[The Brownstone Residents Only] SPX Locker @ The Brownstone, Beside Lift Lobby 2A, S768079",
+    "lat": 1.445865,
+    "lng": 103.827108,
+    "orders": 240
+  },
+  {
+    "id": 5342,
+    "name": "SPX Locker @ Sembawang Shopping Centre, Beside Carpark Entrance, S758459",
+    "lat": 1.442017,
+    "lng": 103.825068,
+    "orders": 380
+  },
+  {
+    "id": 6412,
+    "name": "SPX Locker @ Admirax, L1 Lobby 1 Opposite Mailbox, S757438",
+    "lat": 1.462562,
+    "lng": 103.816097,
+    "orders": 180
+  },
+  {
+    "id": 6401,
+    "name": "[Northoaks Residents Only] SPX Locker @ Northoaks, L1, Near Management Office, S738081",
+    "lat": 1.444937,
+    "lng": 103.806422,
+    "orders": 120
+  },
+  {
+    "id": 6425,
+    "name": "SPX Locker @ Asia Coffee House, S737719",
+    "lat": 1.43998,
+    "lng": 103.808823,
+    "orders": 108
+  },
+  {
+    "id": 5688,
+    "name": "SPX Locker @ Yew Tee Point, L1 Outside KFC, S689578",
+    "lat": 1.397006,
+    "lng": 103.746476,
+    "orders": 240
+  },
+  {
+    "id": 5766,
+    "name": "SPX Locker @ NTUC Club Clubhouse @ Choa Chu Kang Centre, L3, Near the Lounge Area, S680309",
+    "lat": 1.385167,
+    "lng": 103.745706,
+    "orders": 280
+  },
+  {
+    "id": 5713,
+    "name": "[Skies Miltonia Residents Only] SPX Locker @ Skies Miltonia, Near Entrance, Pick up / Drop off area, S768058",
+    "lat": 1.418267,
+    "lng": 103.848233,
+    "orders": 240
+  },
+  {
+    "id": 6510,
+    "name": "SPX Locker @ Stevie Wash @ 431 Yishun, S761431",
+    "lat": 1.420197,
+    "lng": 103.847576,
+    "orders": 160
+  },
+  {
+    "id": 6609,
+    "name": "[Signature at Yishun Residents Only] SPX Locker @ Signature at Yishun, B1 Replacing Parcel Santa, S767995",
+    "lat": 1.41653,
+    "lng": 103.844428,
+    "orders": 300
+  },
+  {
+    "id": 5638,
+    "name": "SPX Locker @ Wisteria Mall, B1 Near to Subway, S768698",
+    "lat": 1.418177,
+    "lng": 103.84196,
+    "orders": 380
+  },
+  {
+    "id": 6602,
+    "name": "SPX Locker @ Aposh Building, L1 Main Lobby Next To Letter Box, S768160",
+    "lat": 1.43682,
+    "lng": 103.8444,
+    "orders": 400
+  },
+  {
+    "id": 6647,
+    "name": "SPX Locker @ Otopot Mart @ 31 Marsiling Dr, S730031",
+    "lat": 1.443198,
+    "lng": 103.772501,
+    "orders": 560
+  },
+  {
+    "id": 4600,
+    "name": "SPX Locker @ Compass One, L1 outside Mos Burger near POSB ATM, S545078",
+    "lat": 1.392272,
+    "lng": 103.894775,
+    "orders": 380
+  },
+  {
+    "id": 5725,
+    "name": "[The Luxurie Residents Only] SPX Locker @ The Luxurie, B1 Carpark, Next to Clubhouse, S544750",
+    "lat": 1.389823,
+    "lng": 103.896342,
+    "orders": 200
+  },
+  {
+    "id": 5733,
+    "name": "[Bellewaters Residents Only] SPX Locker @ Bellewaters, Lower Basement, Near PL 33, S544659",
+    "lat": 1.399395,
+    "lng": 103.891325,
+    "orders": 120
+  },
+  {
+    "id": 5335,
+    "name": "SPX Locker @ Sengkang Grand Mall, L1 near Qin Ji Rougamo, S544692",
+    "lat": 1.382551,
+    "lng": 103.892199,
+    "orders": 240
+  },
+  {
+    "id": 5730,
+    "name": "[Ecopolitan Residents Only] SPX Locker @ Ecopolitan, B1 Carpark, Near Block 136/138, S828701",
+    "lat": 1.400794,
+    "lng": 103.897181,
+    "orders": 320
+  },
+  {
+    "id": 6409,
+    "name": "[Esparina Residences Residents Only] SPX Locker @ Esparina Residences, Level 1 Main Foyer At Block 113, s544814",
+    "lat": 1.381479,
+    "lng": 103.891105,
+    "orders": 140
+  },
+  {
+    "id": 5771,
+    "name": "[A Treasure Trove Residents Only] SPX Locker @ A Treasure Trove, L1 Near the Gym and Vending Machines / Vending Hub, S828789",
+    "lat": 1.405156,
+    "lng": 103.899076,
+    "orders": 200
+  },
+  {
+    "id": 6476,
+    "name": "[RiverParc Residence Residents Only] SPX Locker @ Riverparc Residence, B1 Carpark, Near Block 90, S828801",
+    "lat": 1.405103,
+    "lng": 103.908653,
+    "orders": 200
+  },
+  {
+    "id": 5774,
+    "name": "SPX Locker @ Punggol Coast Mall Tower 84, L1 Beside ATMs, S829911",
+    "lat": 1.414599,
+    "lng": 103.908642,
+    "orders": 285
+  },
+  {
+    "id": 6627,
+    "name": "SPX Locker @ Mister Wash Laundromat @ 805 Hougang Central, S530805",
+    "lat": 1.370494,
+    "lng": 103.894359,
+    "orders": 120
+  },
+  {
+    "id": 5631,
+    "name": "SPX Locker @ The Midtown, B1 Carpark Beside Anytime Fitness, S533971",
+    "lat": 1.370495,
+    "lng": 103.895281,
+    "orders": 400
+  },
+  {
+    "id": 5709,
+    "name": "[Riverfront Residences Residents Only] SPX Locker @ Riverfront Residences, B1 Carpark, Near Block 47, S533816",
+    "lat": 1.369881,
+    "lng": 103.899961,
+    "orders": 380
+  },
+  {
+    "id": 6434,
+    "name": "[Parc Vera Residents Only] SPX Locker @ Parc Vera, L1 Beside Function Room, S534040",
+    "lat": 1.363927,
+    "lng": 103.894955,
+    "orders": 140
+  },
+  {
+    "id": 5704,
+    "name": "SPX Locker @ Hougang Green Shopping Mall, L1 near Security Guard & Loading Bay, S538719",
+    "lat": 1.379071,
+    "lng": 103.888403,
+    "orders": 379
+  },
+  {
+    "id": 6570,
+    "name": "[For Jewel  Residents Only] SPX Locker @ Jewel @ Buangkok Condo, Entrance, Near Pick-up/Drop-off Area, S544823",
+    "lat": 1.380915,
+    "lng": 103.891837,
+    "orders": 440
+  },
+  {
+    "id": 5629,
+    "name": "[Boathouse Residences Residents Only] SPX Locker @ Boathouse Residences, B1 Carpark Beside Plaza Lobby, S534046",
+    "lat": 1.375844,
+    "lng": 103.90298,
+    "orders": 200
+  },
+  {
+    "id": 5096,
+    "name": "SPX Locker @ Simon Plaza, Drop-Off Point, S548008",
+    "lat": 1.362039,
+    "lng": 103.884984,
+    "orders": 280
+  },
+  {
+    "id": 6480,
+    "name": "[Austville Residence Only] SPX Locker @ Austville Residences Condo, B1 Carpark, Near Block 13, S544805",
+    "lat": 1.38102,
+    "lng": 103.901104,
+    "orders": 140
+  },
+  {
+    "id": 5680,
+    "name": "[Kovan Residences Residents Only] SPX Locker @ Kovan Residences, Clubhouse L1 Lift Lobby, S544894",
+    "lat": 1.361574,
+    "lng": 103.885384,
+    "orders": 240
+  },
+  {
+    "id": 6569,
+    "name": "SPX Locker @ Sparkly 24/7 Laundromat @ 728 Ang Mo Kio, S560728",
+    "lat": 1.372703,
+    "lng": 103.845674,
+    "orders": 160
+  },
+  {
+    "id": 5341,
+    "name": "SPX Locker @ AMK Hub, B3 Lobby B Carpark, S569933",
+    "lat": 1.36963,
+    "lng": 103.848204,
+    "orders": 320
+  },
+  {
+    "id": 6489,
+    "name": "[Centro Residences Residents Only] SPX Locker @ Centro Residences, Level 1 Behind Letter Box, S567752",
+    "lat": 1.370259,
+    "lng": 103.848568,
+    "orders": 140
+  },
+  {
+    "id": 6429,
+    "name": "SPX Locker @ Djitsun Mall @ AMK, L1 Behind The Mall, S569663",
+    "lat": 1.372875,
+    "lng": 103.847621,
+    "orders": 280
+  },
+  {
+    "id": 6413,
+    "name": "[Grandeur 8 Residents Only] SPX Locker @ Grandeur 8 Condo @ B1 Carpark, Near Blk 18, S567748",
+    "lat": 1.375882,
+    "lng": 103.847169,
+    "orders": 200
+  },
+  {
+    "id": 6658,
+    "name": "[Nuovo Condo Residents Only] SPX Locker @ Nuovo Condo Block 21, Level 1, S569786",
+    "lat": 1.384367,
+    "lng": 103.842451,
+    "orders": 260
+  },
+  {
+    "id": 5710,
+    "name": "[The Greenwich Residents Only] SPX Locker @ The Greenwich, Basement Carpark, Between Tower D1 and D2, S807015",
+    "lat": 1.387303,
+    "lng": 103.870174,
+    "orders": 120
+  },
+  {
+    "id": 6506,
+    "name": "SPX Locker @ The Good Husband Laundromats & Drycleaners (Seletar Hills), Inside Unit L1, S808450",
+    "lat": 1.385245,
+    "lng": 103.872528,
+    "orders": 108
+  },
+  {
+    "id": 6587,
+    "name": "[The Topiary Residences Only] SPX Locker @ The Topiary Condo @ Level 1 Drop Off Point, Beside the Wheelchair Lift, S797497",
+    "lat": 1.388111,
+    "lng": 103.872284,
+    "orders": 240
+  },
+  {
+    "id": 5763,
+    "name": "SPX Locker @ Northstar @ AMK, L1 Carpark Next To Canteen, S569880",
+    "lat": 1.378131,
+    "lng": 103.87547,
+    "orders": 260
+  },
+  {
+    "id": 6406,
+    "name": "[Seletar Springs Residents Only]  SPX Locker @ Seletar Springs, B1 Carpark Near Blk 108 Near Parcel Santa, S799035",
+    "lat": 1.387115,
+    "lng": 103.879099,
+    "orders": 140
+  },
+  {
+    "id": 5646,
+    "name": "[H2O Residences Residents Only] SPX Locker @ H2O Residences, B1 Beside Management Office, S797535",
+    "lat": 1.392943,
+    "lng": 103.879285,
+    "orders": 200
+  },
+  {
+    "id": 5773,
+    "name": "SPX Locker @ Fernvale Village, L1 Vending Machine Area, #01-01, S799956",
+    "lat": 1.396047,
+    "lng": 103.878607,
+    "orders": 240
+  },
+  {
+    "id": 6466,
+    "name": "[Lush Acres Residents Only] SPX Locker @ Lush Acres Condo, B1 Carpark, Near The Entrance, S797489",
+    "lat": 1.395034,
+    "lng": 103.879783,
+    "orders": 200
+  },
+  {
+    "id": 6539,
+    "name": "[Cabana Residents Only] SPX Locker @ Cabana Condominium, Carpark, Beside Mailboxes and Vending Machine, S805308",
+    "lat": 1.388345,
+    "lng": 103.855167,
+    "orders": 80
+  },
+  {
+    "id": 5685,
+    "name": "[The Amore Residents Only] SPX Locker @ The Amore, Basement Carpark Near Block 57, S828692",
+    "lat": 1.398425,
+    "lng": 103.913231,
+    "orders": 260
+  },
+  {
+    "id": 5346,
+    "name": "[Terrace Residents Only] SPX Locker @ The Terrace, Blk 82, B2 Carpark, S828736",
+    "lat": 1.401759,
+    "lng": 103.916234,
+    "orders": 320
+  },
+  {
+    "id": 6594,
+    "name": "SPX Locker @ Punggol Plaza, L1 Outside Kou Fu, S820168",
+    "lat": 1.394175,
+    "lng": 103.91304,
+    "orders": 160
+  },
+  {
+    "id": 5772,
+    "name": "[Waterwoods Residents Only] SPX Locker @ Waterwoods Condo, B1 Carpark, Near Blk 21 Lift Lobby, S828746",
+    "lat": 1.390968,
+    "lng": 103.912189,
+    "orders": 240
+  },
+  {
+    "id": 6431,
+    "name": "SPX Locker @ My Village, B2 Carpark Opposite Management Office / Lift Lobby, S556679",
+    "lat": 1.36506,
+    "lng": 103.865107,
+    "orders": 200
+  },
+  {
+    "id": 6614,
+    "name": "[Casa Cambio Residents Only] SPX Locker @ Casa Cambio, B1 Carpark Beside The Vending Machine, S547726",
+    "lat": 1.354162,
+    "lng": 103.876463,
+    "orders": 120
+  },
+  {
+    "id": 5767,
+    "name": "SPX Locker @ Tampines 1, L1 Beside Aburi-en, S529536",
+    "lat": 1.354212,
+    "lng": 103.945035,
+    "orders": 240
+  },
+  {
+    "id": 6635,
+    "name": "SPX Locker @ Nice Minimart @ 921 Tampines St 91 #01-K1 S520921",
+    "lat": 1.348119,
+    "lng": 103.940745,
+    "orders": 120
+  },
+  {
+    "id": 6432,
+    "name": "[Tampines Trilliant Residences Only] SPX Locker @ The Tampines Trilliant Condo, Blk11 L1, Beside Management Office, S528609",
+    "lat": 1.358937,
+    "lng": 103.940355,
+    "orders": 120
+  },
+  {
+    "id": 6654,
+    "name": "[Treasure at Tampines Residents Only] SPX Locker @ Treasure at Tampines, Clubhouse Area, S528482",
+    "lat": 1.345302,
+    "lng": 103.946933,
+    "orders": 480
+  },
+  {
+    "id": 6498,
+    "name": "SPX Locker @ Stevie Wash @ 929 Tampines, S520929",
+    "lat": 1.346302,
+    "lng": 103.939642,
+    "orders": 108
+  },
+  {
+    "id": 6564,
+    "name": "SPX Locker @ Wash 2 Dry LLP @ Block 201E #01-122 Tampines St 23, S527201",
+    "lat": 1.35317,
+    "lng": 103.954146,
+    "orders": 120
+  },
+  {
+    "id": 5628,
+    "name": "SPX Locker @ White Sands Mall , L1 near to KFC, S518457",
+    "lat": 1.372417,
+    "lng": 103.949658,
+    "orders": 240
+  },
+  {
+    "id": 5094,
+    "name": "SPX Locker @ Pasir Ris Mall, B1 Carpark near Yakiniku, S519612",
+    "lat": 1.372064,
+    "lng": 103.949533,
+    "orders": 280
+  },
+  {
+    "id": 5654,
+    "name": "[D'Nest Residents Only] SPX Locker @ D'Nest, B1 Carpark Near Vending Machines, S518133",
+    "lat": 1.370842,
+    "lng": 103.945691,
+    "orders": 320
+  },
+  {
+    "id": 6423,
+    "name": "[Eastvale Condo Residents Only] SPX Locker @ Eastvale Condo, Level 1 Near Block 37, S519496",
+    "lat": 1.373922,
+    "lng": 103.954024,
+    "orders": 148
+  },
+  {
+    "id": 5727,
+    "name": "[NV Residences Residents Only] SPX Locker @ NV Residences, Near L1 Clubhouse, Near the Toilets, S518193",
+    "lat": 1.371496,
+    "lng": 103.94431,
+    "orders": 180
+  },
+  {
+    "id": 6416,
+    "name": "SPX Locker @ Vidacity, Level 1 Space Near Canteen, s519422",
+    "lat": 1.371111,
+    "lng": 103.955883,
+    "orders": 240
+  },
+  {
+    "id": 5635,
+    "name": "SPX Locker @ Downtown East, E! Avenue Beside Macs, S519599",
+    "lat": 1.376998,
+    "lng": 103.955188,
+    "orders": 240
+  },
+  {
+    "id": 6407,
+    "name": "SPX Locker @ E!Hub, L2 near NTUC FairPrice, S519599",
+    "lat": 1.377733,
+    "lng": 103.954644,
+    "orders": 240
+  },
+  {
+    "id": 6563,
+    "name": "[Oasis @ Elias Residents Only] SPX Locker @ Oasis @ Elias, B1 Carpark Near Blk 70, S519941",
+    "lat": 1.377106,
+    "lng": 103.942364,
+    "orders": 120
+  },
+  {
+    "id": 5731,
+    "name": "[Ris Grandeur Residents Only] SPX Locker @ Ris Grandeur, B1 Carpark, Beside the Stairway leading up to the BBQ Pit/Swimming Pool, S519933",
+    "lat": 1.374631,
+    "lng": 103.939551,
+    "orders": 120
+  },
+  {
+    "id": 5746,
+    "name": "[Sea Horizon Residents Only] SPX Locker @ Sea Horizon, Level 2 Drop Off Point, Near The Vending Machines, S518080",
+    "lat": 1.378124,
+    "lng": 103.958552,
+    "orders": 200
+  },
+  {
+    "id": 6470,
+    "name": "[Sea Esta Condo Residents Only]SPX Locker @ Sea Esta Condo, B1 Carpark Space Near Washing Bay, S518156",
+    "lat": 1.377332,
+    "lng": 103.959653,
+    "orders": 128
+  },
+  {
+    "id": 5764,
+    "name": "[The Esparis Residents Only] SPX Locker @ The Esparis, B1 Car Park Space Near Guard Post, S519459",
+    "lat": 1.369353,
+    "lng": 103.959902,
+    "orders": 140
+  },
+  {
+    "id": 6568,
+    "name": "[Ripple Bay Condo Residents Only] SPX Locker @ Ripple Bay Condo, L1 Next To Vending Machines, S518184",
+    "lat": 1.377193,
+    "lng": 103.960732,
+    "orders": 420
+  },
+  {
+    "id": 6534,
+    "name": "[Vue 8 Residents Only] SPX Locker @ Vue 8 Residence, L1, In Front Of Management Office, S519289",
+    "lat": 1.382496,
+    "lng": 103.941097,
+    "orders": 200
+  },
+  {
+    "id": 5431,
+    "name": "SPX Locker @ Bedok Mall, L1 Carpark Entrance Beside Starbucks, S467360",
+    "lat": 1.324592,
+    "lng": 103.929263,
+    "orders": 240
+  },
+  {
+    "id": 6629,
+    "name": "SPX Locker @ Bedok Mall, L1 Along External Walkway Near Carpark Entrance, S467360",
+    "lat": 1.324716,
+    "lng": 103.929343,
+    "orders": 480
+  },
+  {
+    "id": 6428,
+    "name": "SPX Locker @ Djitsun Mall @ Bedok, L1 Outside Next To Saizeriya, S469661",
+    "lat": 1.326094,
+    "lng": 103.929477,
+    "orders": 200
+  },
+  {
+    "id": 6529,
+    "name": "SPX Locker @ Laundromat @ 42 Chai Chee, S461042",
+    "lat": 1.327941,
+    "lng": 103.925774,
+    "orders": 160
+  },
+  {
+    "id": 5719,
+    "name": "SPX Locker @ ESR Bizpark @ Chai Chee, Blk A L1 Next to Decathlon, S469001",
+    "lat": 1.323147,
+    "lng": 103.922142,
+    "orders": 360
+  },
+  {
+    "id": 6496,
+    "name": "SPX Locker @ Lucky Star Coffeeshop, S462026",
+    "lat": 1.323339,
+    "lng": 103.934262,
+    "orders": 108
+  },
+  {
+    "id": 6662,
+    "name": "SPX Locker @ Yoo Wifi, Near Entrance, S458329",
+    "lat": 1.315958,
+    "lng": 103.926476,
+    "orders": 260
+  },
+  {
+    "id": 6488,
+    "name": "[Flamingo Valley Residents Only] SPX Locker @ Flamingo Valley, B2, Lift A Lobby, Beside Instant Chef, S454945",
+    "lat": 1.318455,
+    "lng": 103.921312,
+    "orders": 200
+  },
+  {
+    "id": 6516,
+    "name": "SPX Locker @ Wash Dry Clean SG, S460055",
+    "lat": 1.327134,
+    "lng": 103.919308,
+    "orders": 108
+  },
+  {
+    "id": 6574,
+    "name": "[Waterfront Waves Residents Only] SPX Locker @ Waterfront Waves, B1 Between Blk P & O Beside Parcel Santa, S479246",
+    "lat": 1.338031,
+    "lng": 103.930027,
+    "orders": 140
+  },
+  {
+    "id": 6601,
+    "name": "SPX Locker @ Wringer Washer @ 740 Bedok Reservoir Rd, S470740",
+    "lat": 1.338172,
+    "lng": 103.922473,
+    "orders": 120
+  },
+  {
+    "id": 6460,
+    "name": "[For The Tanamera Residents Only] SPX Locker @ The Tanamera, L1 Club House Opp Management Office, S466666",
+    "lat": 1.32675,
+    "lng": 103.943033,
+    "orders": 140
+  },
+  {
+    "id": 5428,
+    "name": "[Archipelago Residents Only] SPX Locker @ Archipelago, Blk 529 Drop-off Point, S470704",
+    "lat": 1.338699,
+    "lng": 103.919112,
+    "orders": 232
+  },
+  {
+    "id": 5756,
+    "name": "[Bedok Court Residents Only] SPX Locker @ Bedok Court, Level 1, Block 295 Lobby B Common Area, Opposite Vending Machine, S469296",
+    "lat": 1.322307,
+    "lng": 103.94447,
+    "orders": 120
+  },
+  {
+    "id": 5343,
+    "name": "SPX Locker @ I12 Katong, B2 Carpark Entrance, S428802",
+    "lat": 1.3052,
+    "lng": 103.905064,
+    "orders": 280
+  },
+  {
+    "id": 6593,
+    "name": "SPX Locker @ Cnergy Dunman Rd, Near Entrance, S439241",
+    "lat": 1.309611,
+    "lng": 103.901077,
+    "orders": 500
+  },
+  {
+    "id": 6537,
+    "name": "[Amber Park Residents Only] SPX Locker @ Amber Park Condo, B1 Carpark, Near Block 18A Lift Lobby, S439980",
+    "lat": 1.300753,
+    "lng": 103.899469,
+    "orders": 180
+  },
+  {
+    "id": 6659,
+    "name": "[King's Mansion Residents Only] SPX Locker @ King's Mansion, Clubhouse Beside The Pool, S439959",
+    "lat": 1.300669,
+    "lng": 103.898399,
+    "orders": 120
+  },
+  {
+    "id": 6578,
+    "name": "[Laguna Park Residents Only] SPX Locker @ Laguna Park, Blk 5000C Near Management Office, S449286",
+    "lat": 1.307359,
+    "lng": 103.917965,
+    "orders": 160
+  },
+  {
+    "id": 6648,
+    "name": "SPX Locker @ Icon @ Changi, Outdoor Near Main Entrance, S419741",
+    "lat": 1.317245,
+    "lng": 103.904676,
+    "orders": 340
+  },
+  {
+    "id": 6417,
+    "name": "SPX Locker @ Kim San Leng @ 324 Changi Rd, S419799",
+    "lat": 1.317951,
+    "lng": 103.908001,
+    "orders": 108
+  },
+  {
+    "id": 6452,
+    "name": "SPX Locker @ Cheers - Neptune Court, S449034",
+    "lat": 1.306494,
+    "lng": 103.922012,
+    "orders": 24
+  },
+  {
+    "id": 5692,
+    "name": "SPX Locker @ Kinex, L4 Indoor Space, S437157",
+    "lat": 1.314923,
+    "lng": 103.894587,
+    "orders": 240
+  },
+  {
+    "id": 6547,
+    "name": "SPX Locker @ PLQ Parkside, B1A Near Escalator, S409057",
+    "lat": 1.317631,
+    "lng": 103.892831,
+    "orders": 420
+  },
+  {
+    "id": 5711,
+    "name": "[SimsVille Residents Only] SPX Locker @ SimsVille, Block 8, Near Lift Lobby, S389757",
+    "lat": 1.317203,
+    "lng": 103.889425,
+    "orders": 120
+  },
+  {
+    "id": 5738,
+    "name": "[euHabitat Residents Only] SPX Locker @ euHabitat, B1 Carpark, S415870",
+    "lat": 1.328287,
+    "lng": 103.906251,
+    "orders": 120
+  },
+  {
+    "id": 6492,
+    "name": "SPX Locker @ Kim San Leng @ 134 Geylang East, S380134",
+    "lat": 1.316053,
+    "lng": 103.886426,
+    "orders": 100
+  },
+  {
+    "id": 6554,
+    "name": "SPX Locker @ ACE Signature @ 448 Geylang Rd, S389407",
+    "lat": 1.313209,
+    "lng": 103.883673,
+    "orders": 260
+  },
+  {
+    "id": 6628,
+    "name": "[For Stratford Court Residents Only] SPX Locker @ Stratford Court, B1  Clubhouse Lift Lobby, S489929",
+    "lat": 1.328445,
+    "lng": 103.951443,
+    "orders": 120
+  },
+  {
+    "id": 5721,
+    "name": "[The Glades Residents Only] SPX Locker @ The Glades, B2 Carpark Near to Vending Machine, S465408",
+    "lat": 1.327163,
+    "lng": 103.949501,
+    "orders": 260
+  },
+  {
+    "id": 5637,
+    "name": "SPX Locker @ Plaza 8 Beside Urbans Food Court, S486025",
+    "lat": 1.333087,
+    "lng": 103.965977,
+    "orders": 380
+  },
+  {
+    "id": 5770,
+    "name": "[Eco Condo Residents Only] SPX Locker @ Eco Condo, L3 Carpark Between Lot 642 and 643, S465460",
+    "lat": 1.322856,
+    "lng": 103.944679,
+    "orders": 280
+  },
+  {
+    "id": 6606,
+    "name": "SPX Locker @ Raymond Shop @ The Bedok Market Place, S469560",
+    "lat": 1.33136,
+    "lng": 103.948299,
+    "orders": 120
+  },
+  {
+    "id": 5737,
+    "name": "SPX Locker @ SUTD, L1 Near Upper Changi MRT Entrance, S487372",
+    "lat": 1.34085,
+    "lng": 103.962485,
+    "orders": 380
+  },
+  {
+    "id": 6634,
+    "name": "[Simei Green Residents Only] SPX Locker @ Simei Green, Multistorey Carpark Lv 1, S529861",
+    "lat": 1.341678,
+    "lng": 103.958028,
+    "orders": 260
+  },
+  {
+    "id": 6512,
+    "name": "SPX Locker @ Singapore University of Technology and Design (Hostel), L1 Near Blk 57, S485999",
+    "lat": 1.341862,
+    "lng": 103.963917,
+    "orders": 280
+  },
+  {
+    "id": 4602,
+    "name": "SPX Locker @ Eastpoint Mall, L2 near Customer Service, S528833",
+    "lat": 1.342728,
+    "lng": 103.953011,
+    "orders": 280
+  },
+  {
+    "id": 5694,
+    "name": "[Changi Rise Condo Residents Only] SPX Locker @ Changi Rise Beside Management Office, S528806",
+    "lat": 1.348464,
+    "lng": 103.959821,
+    "orders": 240
+  },
+  {
+    "id": 5722,
+    "name": "SPX Locker @ Tampines Mart, L1 Next To Pizza Hut, S529287",
+    "lat": 1.3538,
+    "lng": 103.957909,
+    "orders": 380
+  },
+  {
+    "id": 6642,
+    "name": "SPX Locker @ Nice Minimart @ 7 Tampines St 32, S529285",
+    "lat": 1.354002,
+    "lng": 103.960404,
+    "orders": 120
+  },
+  {
+    "id": 6446,
+    "name": "[Parc Olympia Residents Only] SPX Locker @ Parc Olympia Condo, B1 Carpark, Near Blk 52 Lift Lobby, S506869",
+    "lat": 1.355052,
+    "lng": 103.964832,
+    "orders": 200
+  },
+  {
+    "id": 5742,
+    "name": "[The Eden At Tampines Residents Only] SPX Locker @ The Eden At Tampines,  Behind Main Drop Off Point, S529233",
+    "lat": 1.35595,
+    "lng": 103.959867,
+    "orders": 120
+  },
+  {
+    "id": 6608,
+    "name": "[Hedges Park Residents Only] SPX Locker @ Hedges Park,B1 Carpark, Opposite Clubhouse Lift Lobby, S506890",
+    "lat": 1.355055,
+    "lng": 103.967208,
+    "orders": 160
+  },
+  {
+    "id": 5698,
+    "name": "[Palm Isles Residents Only] SPX Locker @ Palm Isles, B1 Near Entrance, Pick Up / Drop Off Area, S506892",
+    "lat": 1.357088,
+    "lng": 103.9649,
+    "orders": 140
+  },
+  {
+    "id": 6415,
+    "name": "[Edelweiss Park Residents Only] SPX Locker @ Edelweiss Park Condominium, Blk 86 Level B1 Beside Parcel Santa, S509745",
+    "lat": 1.35696,
+    "lng": 103.968064,
+    "orders": 200
+  },
+  {
+    "id": 5736,
+    "name": "[Azalea Park Condo Residents Only] SPX Locker @ Azalea Park Condo, Ground Floor Carpark Near Squash Court, S509725",
+    "lat": 1.360697,
+    "lng": 103.962622,
+    "orders": 120
+  },
+  {
+    "id": 5734,
+    "name": "[Avila Gardens Residents Only] SPX Locker @ Avila Gardens, L1 Carpark Area Beside Transfer Pump Room, S509736",
+    "lat": 1.360184,
+    "lng": 103.965549,
+    "orders": 120
+  },
+  {
+    "id": 5777,
+    "name": "[Estella Gardens Residents Only] SPX Locker @ Estella Garden Condo, Level 1 Clubhouse Room, S509738",
+    "lat": 1.360286,
+    "lng": 103.966512,
+    "orders": 140
+  },
+  {
+    "id": 6553,
+    "name": "[For Tapestry Condo Residents Only] SPX Locker @ Tapestry Condo, B2 Carpark Near Carpark Lot 184, S528510",
+    "lat": 1.354048,
+    "lng": 103.929308,
+    "orders": 640
+  },
+  {
+    "id": 5743,
+    "name": "[The Tropica Residents Only] SPX Locker @ The Tropica, L1 Near Management Office, S529775",
+    "lat": 1.347771,
+    "lng": 103.927288,
+    "orders": 200
+  },
+  {
+    "id": 6490,
+    "name": "SPX Locker @ The Good Husband Laundromats & Drycleaners (Komo Shoppes), Inside unit Level 2, S506790",
+    "lat": 1.360322,
+    "lng": 103.970017,
+    "orders": 160
+  },
+  {
+    "id": 6419,
+    "name": "SPX Locker @ Jurong Point, B1A Near Delivery Rider Carpark Space, S648886",
+    "lat": 1.339926,
+    "lng": 103.706289,
+    "orders": 700
+  },
+  {
+    "id": 6438,
+    "name": "SPX Locker @ Kim San Leng @ 5 Soon Lee St, #01-08, S627607",
+    "lat": 1.334105,
+    "lng": 103.698871,
+    "orders": 108
+  },
+  {
+    "id": 6430,
+    "name": "SPX Locker @ Kim San Leng @ 3 Soon Lee, S627606",
+    "lat": 1.333294,
+    "lng": 103.699426,
+    "orders": 108
+  },
+  {
+    "id": 5739,
+    "name": "[Lakepoint Residents Only] SPX Locker @ Lakepoint, L1 Behind Function Room / Near Block 4, S648923",
+    "lat": 1.341177,
+    "lng": 103.716915,
+    "orders": 120
+  },
+  {
+    "id": 5683,
+    "name": "[Caspian Residents Only] SPX Locker @ Caspian B1, Near Function Room, S648321",
+    "lat": 1.342887,
+    "lng": 103.717963,
+    "orders": 120
+  },
+  {
+    "id": 6507,
+    "name": "SPX Locker @ JEM, L1 Next To BBQ BOX, S608549",
+    "lat": 1.33312,
+    "lng": 103.743217,
+    "orders": 340
+  },
+  {
+    "id": 5430,
+    "name": "SPX Locker @ Westgate Lobby A Near B3 Carpark Entrance, S608532",
+    "lat": 1.334382,
+    "lng": 103.742784,
+    "orders": 240
+  },
+  {
+    "id": 5701,
+    "name": "SPX Locker @ Perennial Business City, B1 Carpark Near Lobby A Lift, S608521",
+    "lat": 1.33161,
+    "lng": 103.745126,
+    "orders": 240
+  },
+  {
+    "id": 6493,
+    "name": "SPX Locker @ Kim San Leng @ 130 Jurong Gateway, S600130",
+    "lat": 1.335111,
+    "lng": 103.739429,
+    "orders": 100
+  },
+  {
+    "id": 6610,
+    "name": "SPX Locker @ Jurong Play Ground, L1 Walkway Beside Vending Machines, S608512",
+    "lat": 1.336731,
+    "lng": 103.745676,
+    "orders": 340
+  },
+  {
+    "id": 6475,
+    "name": "SPX Locker @ 31 International Business Park, L1 Lobby B, S609921",
+    "lat": 1.328721,
+    "lng": 103.745909,
+    "orders": 320
+  },
+  {
+    "id": 6495,
+    "name": "SPX Locker @ A&B Laundry Jurong East, S600214",
+    "lat": 1.339259,
+    "lng": 103.739114,
+    "orders": 108
+  },
+  {
+    "id": 6504,
+    "name": "SPX Locker @ DIY Laundry @ 37 Teban Gardens, S600037",
+    "lat": 1.320565,
+    "lng": 103.742418,
+    "orders": 160
+  },
+  {
+    "id": 6485,
+    "name": "SPX Locker @ Prestige Centre, Level 2 Outside Cargo Lift Right Side Of The Wall, S658071",
+    "lat": 1.338248,
+    "lng": 103.755799,
+    "orders": 240
+  },
+  {
+    "id": 6424,
+    "name": "[The Mayfair Residents Only] SPX Locker @ The Mayfair, B1 Carpark At The Clubhouse, S609481",
+    "lat": 1.345438,
+    "lng": 103.733991,
+    "orders": 140
+  },
+  {
+    "id": 6650,
+    "name": "SPX Locker @ Midview Building, L2 Near Loading Bay, S659578",
+    "lat": 1.339263,
+    "lng": 103.757399,
+    "orders": 480
+  },
+  {
+    "id": 6473,
+    "name": "SPX Locker @ Cnergy Petrol Station, Inside The Cafeteria, S597657",
+    "lat": 1.334203,
+    "lng": 103.758787,
+    "orders": 320
+  },
+  {
+    "id": 5095,
+    "name": "SPX Locker @ Penjuru Recreation Centre, MPH 2 Beside POSB, S608538",
+    "lat": 1.318523,
+    "lng": 103.733408,
+    "orders": 280
+  },
+  {
+    "id": 5699,
+    "name": "SPX Locker @ Avery Lodge Dormitory,  L2 Beside Recreation/Reading Room, S619415",
+    "lat": 1.320429,
+    "lng": 103.730124,
+    "orders": 320
+  },
+  {
+    "id": 5775,
+    "name": "[Whistler Grand Residents Only] SPX Locker @ Whistler Grand, B1 Carpark Opposite Grab Food Lockers At Blk 109 Letterbox, S126757",
+    "lat": 1.319461,
+    "lng": 103.753649,
+    "orders": 280
+  },
+  {
+    "id": 5344,
+    "name": "SPX Locker @ West Mall, B2 Carpark Entrance, S658713",
+    "lat": 1.350011,
+    "lng": 103.749285,
+    "orders": 380
+  },
+  {
+    "id": 5751,
+    "name": "[Westlite Papan Residents Only] SPX Locker @ Westlite Papan, L1 Lift Near Entrance, S619420",
+    "lat": 1.322209,
+    "lng": 103.728004,
+    "orders": 320
+  },
+  {
+    "id": 6463,
+    "name": "[Botannia Residents Only] SPX Locker @ Botannia Condo, B1 Carpark, Near Block 27 / Carpark Lot 479, S127720",
+    "lat": 1.318459,
+    "lng": 103.753578,
+    "orders": 140
+  },
+  {
+    "id": 5760,
+    "name": "SPX Locker @ Cassia@Penjuru, Blk 23 L1 Staircase A, S608537",
+    "lat": 1.317778,
+    "lng": 103.732036,
+    "orders": 240
+  },
+  {
+    "id": 6567,
+    "name": "SPX Locker @ Sparkly Laundromat @ 354 Clementi Ave 2, S120354",
+    "lat": 1.313676,
+    "lng": 103.770352,
+    "orders": 108
+  },
+  {
+    "id": 5684,
+    "name": "[Hundred Trees Residents Only] SPX Locker @ Hundred Trees, B1 Carpark Near Block 89, S128019",
+    "lat": 1.314876,
+    "lng": 103.758787,
+    "orders": 120
+  },
+  {
+    "id": 6500,
+    "name": "SPX Locker @ Stevie Wash @ 308 Clementi, S120308",
+    "lat": 1.321089,
+    "lng": 103.766856,
+    "orders": 108
+  },
+  {
+    "id": 6502,
+    "name": "SPX Locker @ DIY Laundry @ 420A Clementi Ave, S121420",
+    "lat": 1.309514,
+    "lng": 103.768408,
+    "orders": 200
+  },
+  {
+    "id": 6624,
+    "name": "SPX Locker @ Theng Mart, Inside The Unit Beside The Middle Shelf, S128020",
+    "lat": 1.315797,
+    "lng": 103.757801,
+    "orders": 240
+  },
+  {
+    "id": 6435,
+    "name": "[The Clement Canopy Residents Only] SPX Locker @ The Clement Canopy, Level 1 Carpark Near Vending Machines, S129961",
+    "lat": 1.306734,
+    "lng": 103.768452,
+    "orders": 140
+  },
+  {
+    "id": 6403,
+    "name": "[Carabelle Residents Only] SPX Locker @ Carabelle, B1 Carpark Space Beside Stairs, S127023",
+    "lat": 1.317817,
+    "lng": 103.756112,
+    "orders": 140
+  },
+  {
+    "id": 6503,
+    "name": "SPX Locker @ DIY Laundry @ 727 Clementi West, S120727",
+    "lat": 1.305251,
+    "lng": 103.763805,
+    "orders": 160
+  },
+  {
+    "id": 5708,
+    "name": "SPX Locker @ West Coast Plaza, L2 Carpark, S127371",
+    "lat": 1.303712,
+    "lng": 103.766029,
+    "orders": 240
+  },
+  {
+    "id": 5639,
+    "name": "SPX Locker @ Stevie Wash Clementi West, 612 Clementi West St 1, #01-325, S120612",
+    "lat": 1.303383,
+    "lng": 103.768365,
+    "orders": 20
+  },
+  {
+    "id": 5686,
+    "name": "SPX Locker @ NUS Stephen Riady Centre, L1 Opp Subway, S138607",
+    "lat": 1.304471,
+    "lng": 103.772458,
+    "orders": 240
+  },
+  {
+    "id": 5345,
+    "name": "SPX Locker @ U-Town Residences, North Tower, S138600",
+    "lat": 1.30539,
+    "lng": 103.773998,
+    "orders": 240
+  },
+  {
+    "id": 6542,
+    "name": "SPX Locker @ Jelita Mall, L1 Outside Beside Cold Storage Entrance, S278628",
+    "lat": 1.317578,
+    "lng": 103.785857,
+    "orders": 320
+  },
+  {
+    "id": 6481,
+    "name": "[Dover Parkview Residents Only] SPX Locker @ Dover Parkview Condo, L1, Near Management Office, S138684",
+    "lat": 1.305372,
+    "lng": 103.784306,
+    "orders": 140
+  },
+  {
+    "id": 5650,
+    "name": "SPX Locker @ The Star Vista, B2 Carpark Near Exit Gantry, S138617",
+    "lat": 1.306807,
+    "lng": 103.7884,
+    "orders": 240
+  },
+  {
+    "id": 6459,
+    "name": "SPX Locker @ Rochester Commons, B1 Carpark Space Near Letter Box, S139212",
+    "lat": 1.305051,
+    "lng": 103.787736,
+    "orders": 260
+  },
+  {
+    "id": 6566,
+    "name": "SPX Locker @ Rochester Mall, L1 Near Residential Lift, S138639",
+    "lat": 1.305481,
+    "lng": 103.788658,
+    "orders": 540
+  },
+  {
+    "id": 6465,
+    "name": "[High Oak Residents Only] SPX Locker @ High Oaks, Beside Clubhouse Pool, S596290",
+    "lat": 1.340542,
+    "lng": 103.771029,
+    "orders": 140
+  },
+  {
+    "id": 6581,
+    "name": "[One-North Residences Only] SPX Locker @ One-North Residences Condo, B1 Carpark, Near Entrance, S138642",
+    "lat": 1.302852,
+    "lng": 103.78905,
+    "orders": 140
+  },
+  {
+    "id": 5655,
+    "name": "SPX Locker @ Bukit Timah Plaza, B1 Near QQ House, S588996",
+    "lat": 1.338656,
+    "lng": 103.778896,
+    "orders": 240
+  },
+  {
+    "id": 6661,
+    "name": "SPX Locker @ Steviewash @ 539 Bukit Batok, S650539",
+    "lat": 1.354794,
+    "lng": 103.750867,
+    "orders": 120
+  },
+  {
+    "id": 6531,
+    "name": "SPX Locker @ Laundromat @ 259 Bukit Batok East, S650259",
+    "lat": 1.351423,
+    "lng": 103.759625,
+    "orders": 20
+  },
+  {
+    "id": 6536,
+    "name": "SPX Locker @ Le Quest Mall, Level 1, In front of FairPrice, S657991",
+    "lat": 1.356016,
+    "lng": 103.740604,
+    "orders": 380
+  },
+  {
+    "id": 6528,
+    "name": "SPX Locker @ Dobi Enjoy @ 324 Bukit Batok, S650324",
+    "lat": 1.362146,
+    "lng": 103.747232,
+    "orders": 108
+  },
+  {
+    "id": 5640,
+    "name": "SPX Locker @ Sungei Tengah Lodge, Socializing Area 3, S698924",
+    "lat": 1.376544,
+    "lng": 103.718703,
+    "orders": 440
+  },
+  {
+    "id": 6462,
+    "name": "SPX Locker @ Sungei Tengah SA2, Socializing Area 2,  S698924",
+    "lat": 1.376556,
+    "lng": 103.718701,
+    "orders": 460
+  },
+  {
+    "id": 6469,
+    "name": "SPX Locker @ Terusan Recreation Centre, At Badminton Court Next To Canteen, S619392",
+    "lat": 1.321018,
+    "lng": 103.727283,
+    "orders": 320
+  },
+  {
+    "id": 6637,
+    "name": "SPX Locker @ Jurong Penjuru Dormitory 2, Near Blk 38 Carpark, S608560",
+    "lat": 1.316072,
+    "lng": 103.732213,
+    "orders": 480
+  },
+  {
+    "id": 6474,
+    "name": "SPX Locker @ Corporation Place, Level 2 Main Lobby, S618494",
+    "lat": 1.325198,
+    "lng": 103.719866,
+    "orders": 320
+  },
+  {
+    "id": 5668,
+    "name": "SPX Locker @ HomeTeamNS (Bukit Batok), L1 Near Main Lobby, S659003",
+    "lat": 1.366377,
+    "lng": 103.746697,
+    "orders": 280
+  },
+  {
+    "id": 5432,
+    "name": "SPX Locker @ Hardware City Flagship Store, S689473",
+    "lat": 1.376501,
+    "lng": 103.744167,
+    "orders": 120
+  },
+  {
+    "id": 6499,
+    "name": "SPX Locker @ Stevie Wash @ 253 Choa Chu Kang, S680253",
+    "lat": 1.377441,
+    "lng": 103.744394,
+    "orders": 108
+  },
+  {
+    "id": 6467,
+    "name": "[Sol Acres Residents Only] SPX Locker @ Sol Acres Condo, Lvl 4 carpark (Near Club House), S688238",
+    "lat": 1.376599,
+    "lng": 103.750278,
+    "orders": 300
+  },
+  {
+    "id": 5750,
+    "name": "SPX Locker @ NUS Prince George's Park, Blk 7/8 B1, S118425",
+    "lat": 1.290841,
+    "lng": 103.78099,
+    "orders": 240
+  },
+  {
+    "id": 5670,
+    "name": "[Queens Peak Residents Only] SPX Locker @ Queens Peak L1, Near pick up/drop off area, S149456",
+    "lat": 1.294871,
+    "lng": 103.806751,
+    "orders": 140
+  },
+  {
+    "id": 6562,
+    "name": "[Queens Condo Residents Only] SPX Locker @ Queens Condo, L1 Facing Drop-Off Point, S148954",
+    "lat": 1.292601,
+    "lng": 103.806055,
+    "orders": 340
+  },
+  {
+    "id": 5426,
+    "name": "[Commonwealth Tower Residents Only] SPX Locker @ Commonwealth Towers, L1 Carpark, S149740",
+    "lat": 1.295906,
+    "lng": 103.805518,
+    "orders": 120
+  },
+  {
+    "id": 5642,
+    "name": "[Stirling Residences Residents Only] SPX Locker @ Stirling Residences, Blk 25 B1 Beside Lobby B, S148962",
+    "lat": 1.291682,
+    "lng": 103.804827,
+    "orders": 140
+  },
+  {
+    "id": 6565,
+    "name": "SPX Locker @ EZ Wash Laundry @ Behind Vending Machine, S141038",
+    "lat": 1.297975,
+    "lng": 103.80427,
+    "orders": 160
+  },
+  {
+    "id": 6597,
+    "name": "[Margaret Ville Residents Only] SPX Locker @ Margaret Ville, L1 Near Main Lobby Entrance, S149312",
+    "lat": 1.298991,
+    "lng": 103.802751,
+    "orders": 60
+  },
+  {
+    "id": 5702,
+    "name": "SPX Locker @ Queensway Shopping Centre, L1 Outside Mall Entrance Space, S149053",
+    "lat": 1.287523,
+    "lng": 103.803106,
+    "orders": 380
+  },
+  {
+    "id": 6604,
+    "name": "SPX Locker @ Stevie Wash @ Blk 11 Jalan Bukit Merah, S150011",
+    "lat": 1.286901,
+    "lng": 103.808802,
+    "orders": 120
+  },
+  {
+    "id": 6577,
+    "name": "SPX Locker @ Bryton House, Wall Behind the carpark Lift, S159506",
+    "lat": 1.288352,
+    "lng": 103.811981,
+    "orders": 645
+  },
+  {
+    "id": 6527,
+    "name": "SPX Locker @ Dobi Enjoy @ 58 Lengkok Bahru, S150058",
+    "lat": 1.288542,
+    "lng": 103.813942,
+    "orders": 108
+  },
+  {
+    "id": 6515,
+    "name": "SPX Locker @ Stevie Wash @ 55 Lengkok Bahru, S151055",
+    "lat": 1.287513,
+    "lng": 103.813503,
+    "orders": 108
+  },
+  {
+    "id": 6421,
+    "name": "[Metropolitan Residents Only] SPX Locker @ The Metropolitan, B1 Carpark Beside Vending Machine, S158747",
+    "lat": 1.29056,
+    "lng": 103.816011,
+    "orders": 140
+  },
+  {
+    "id": 6618,
+    "name": "SPX Locker @ Redhill Forum @ Lv 1 Lift Lobby, S159308",
+    "lat": 1.284147,
+    "lng": 103.811318,
+    "orders": 240
+  },
+  {
+    "id": 6457,
+    "name": "SPX Locker @ 138 Depot Road, L1 Near Loading Bay, S109683",
+    "lat": 1.283085,
+    "lng": 103.808129,
+    "orders": 320
+  },
+  {
+    "id": 5641,
+    "name": "[Tanglin View Residents Only] SPX Locker @ Tanglin View, Tower B, B1 Lobby Behind Letter Box, S159012",
+    "lat": 1.29179,
+    "lng": 103.818353,
+    "orders": 80
+  },
+  {
+    "id": 5761,
+    "name": "SPX Locker @ 24hr All Day Everyday Laundromat, 118 Commonwealth Cres, #01-25, S140118",
+    "lat": 1.306762,
+    "lng": 103.800665,
+    "orders": 20
+  },
+  {
+    "id": 5632,
+    "name": "[Normanton Park Residents Only] SPX Locker @ Normanton Park, B1 Carpark (Behind the Lift to Clubhouse), S119027",
+    "lat": 1.2874,
+    "lng": 103.793261,
+    "orders": 280
+  },
+  {
+    "id": 6622,
+    "name": "SPX Locker @ Mister Wash Laundromat @ 86 Redhill Cl, S150086",
+    "lat": 1.28691,
+    "lng": 103.818992,
+    "orders": 120
+  },
+  {
+    "id": 5712,
+    "name": "SPX Locker @ Alexandra Technopark, Blk A L1 Beside Lift Lobby 1, S119967",
+    "lat": 1.277705,
+    "lng": 103.800855,
+    "orders": 240
+  },
+  {
+    "id": 5755,
+    "name": "SPX Locker @ Apex@Henderson, L3 Space, Beside iJooz, S159545",
+    "lat": 1.282711,
+    "lng": 103.820449,
+    "orders": 200
+  },
+  {
+    "id": 6533,
+    "name": "SPX Locker @ Wash Liao @ 523 Jurong West, S640523",
+    "lat": 1.305402,
+    "lng": 103.790927,
+    "orders": 160
+  },
+  {
+    "id": 6441,
+    "name": "SPX Locker @ Fusionopolis, B2 Beside Cold Storage, S138632",
+    "lat": 1.299525,
+    "lng": 103.787761,
+    "orders": 532
+  },
+  {
+    "id": 4599,
+    "name": "SPX Locker @ Galaxis, B1 near Carpark, S138632",
+    "lat": 1.299622,
+    "lng": 103.787656,
+    "orders": 500
+  },
+  {
+    "id": 6551,
+    "name": "SPX Locker @ Shopee Building, L1 Carpark Corridor Beside Food Locker, S118265",
+    "lat": 1.292235,
+    "lng": 103.78664,
+    "orders": 640
+  },
+  {
+    "id": 6458,
+    "name": "SPX Locker @ 203 Henderson Industrial Park, L1 Outside Management Office, S159546",
+    "lat": 1.281062,
+    "lng": 103.820966,
+    "orders": 260
+  },
+  {
+    "id": 5340,
+    "name": "SPX Locker @ One Holland Village, B1 near Bicycle Park, S275748",
+    "lat": 1.311084,
+    "lng": 103.795065,
+    "orders": 320
+  },
+  {
+    "id": 5097,
+    "name": "SPX Locker @ Tanglin Mall, B3 Carpark, S247933",
+    "lat": 1.305035,
+    "lng": 103.823845,
+    "orders": 120
+  },
+  {
+    "id": 5098,
+    "name": "SPX Locker @ Valley Point, L2 Next to Curve Staircase, S248371",
+    "lat": 1.293344,
+    "lng": 103.827141,
+    "orders": 280
+  },
+  {
+    "id": 5681,
+    "name": "SPX Locker @ One Claymore, L1 Near Entrance, #01-S03, S229594",
+    "lat": 1.307486,
+    "lng": 103.829352,
+    "orders": 240
+  },
+  {
+    "id": 5425,
+    "name": "SPX Locker @ 111 Somerset, Beside L2 Candy K-Bar, S238164",
+    "lat": 1.300169,
+    "lng": 103.837295,
+    "orders": 240
+  },
+  {
+    "id": 6479,
+    "name": "SPX Locker @ Great World, Level 1, Near the ATMs and Office Lobby, S237994",
+    "lat": 1.293689,
+    "lng": 103.831951,
+    "orders": 500
+  },
+  {
+    "id": 6546,
+    "name": "SPX Locker @ UE Square @ B2 (Red Zone Carpark), Escalator Lobby to Carpark, S239917",
+    "lat": 1.292459,
+    "lng": 103.842821,
+    "orders": 380
+  },
+  {
+    "id": 6538,
+    "name": "SPX Locker @ Concorde Shopping Centre, L1 Main Entrance Near MRT, S169075",
+    "lat": 1.287994,
+    "lng": 103.833982,
+    "orders": 320
+  },
+  {
+    "id": 5652,
+    "name": "SPX Locker @ Stevie Wash Bukit Ho Swee, 4 Jln Bukit Ho Swee, #01-156, S162004",
+    "lat": 1.287441,
+    "lng": 103.831272,
+    "orders": 20
+  },
+  {
+    "id": 5339,
+    "name": "SPX Locker @ Tiong Bahru Plaza, B1 Carpark Entrance, S168732",
+    "lat": 1.286476,
+    "lng": 103.827151,
+    "orders": 240
+  },
+  {
+    "id": 5649,
+    "name": "SPX Locker @ Marina Bay Link Mall, B2 Towards Promontory Exit, S018984",
+    "lat": 1.279998,
+    "lng": 103.853521,
+    "orders": 380
+  },
+  {
+    "id": 6591,
+    "name": "SPX Locker @ Hong Leong Building, B1 Lift Lobby Beside #01-55, S048581",
+    "lat": 1.281445,
+    "lng": 103.850883,
+    "orders": 480
+  },
+  {
+    "id": 6599,
+    "name": "SPX Locker @ International Plaza, L2 Replacing Parcel Santa, S079903",
+    "lat": 1.275861,
+    "lng": 103.846409,
+    "orders": 600
+  },
+  {
+    "id": 5648,
+    "name": "SPX Locker @ 78 Shenton Way, L1 Beside Starbucks, S079120",
+    "lat": 1.273304,
+    "lng": 103.845323,
+    "orders": 160
+  },
+  {
+    "id": 5644,
+    "name": "SPX Locker @ Fraser Towers, Underpass to Tanjong Pagar MRT, S069547",
+    "lat": 1.278713,
+    "lng": 103.847311,
+    "orders": 380
+  },
+  {
+    "id": 5769,
+    "name": "SPX Locker @ Capitagreen, B2 Carpark Lift Lobby Space, S048946",
+    "lat": 1.282019,
+    "lng": 103.850082,
+    "orders": 140
+  },
+  {
+    "id": 5347,
+    "name": "SPX Locker @ CIMB Plaza, L2 Beside Passenger Lifts, S048622",
+    "lat": 1.284109,
+    "lng": 103.852015,
+    "orders": 240
+  },
+  {
+    "id": 5422,
+    "name": "SPX Locker @ 100AM Mall L4 near to MUJI, S079027",
+    "lat": 1.274946,
+    "lng": 103.843409,
+    "orders": 240
+  },
+  {
+    "id": 5658,
+    "name": "SPX Locker @ 6 Battery Rd, B1 Carpark, S049909",
+    "lat": 1.285614,
+    "lng": 103.851973,
+    "orders": 280
+  },
+  {
+    "id": 6611,
+    "name": "SPX Locker @ ICON Link@ClubStreet, B2 Opposite Teo Soon, S069472",
+    "lat": 1.282842,
+    "lng": 103.846583,
+    "orders": 460
+  },
+  {
+    "id": 6655,
+    "name": "SPX Locker @ Cheers - South Bridge Rd, S058782",
+    "lat": 1.282636,
+    "lng": 103.845731,
+    "orders": 120
+  },
+  {
+    "id": 5696,
+    "name": "SPX Locker @ One George Street, L5 lobby, Next to FitnessFirst, S049145",
+    "lat": 1.285961,
+    "lng": 103.847851,
+    "orders": 240
+  },
+  {
+    "id": 6589,
+    "name": "SPX Locker @ Marina Square, Wall Beside Carpark Entrance Near #01-208, S039594",
+    "lat": 1.291206,
+    "lng": 103.857677,
+    "orders": 480
+  },
+  {
+    "id": 5729,
+    "name": "SPX Locker @ Chinatown Point, L1 Outside Mall Near #01-29/30, S059413",
+    "lat": 1.285209,
+    "lng": 103.844723,
+    "orders": 240
+  },
+  {
+    "id": 6486,
+    "name": "SPX Locker @ Suntec City, Behind Don Don Donki, L2, Atrium (Convention Centre), S039593",
+    "lat": 1.294778,
+    "lng": 103.857273,
+    "orders": 240
+  },
+  {
+    "id": 6454,
+    "name": "SPX Locker @ FairPriceXpress - Outram Community Hospital, S168582",
+    "lat": 1.277968,
+    "lng": 103.835254,
+    "orders": 24
+  },
+  {
+    "id": 5714,
+    "name": "SPX Locker @ Guoco Midtown I, Level 1, Next to Carpark A Lift Lobby Exit, S189773",
+    "lat": 1.29755,
+    "lng": 103.857699,
+    "orders": 240
+  },
+  {
+    "id": 5659,
+    "name": "SPX Locker @ Bugis Cube, L1 Main Entrance, S188735",
+    "lat": 1.298192,
+    "lng": 103.855657,
+    "orders": 200
+  },
+  {
+    "id": 5759,
+    "name": "[Water Place Residents Only] SPX Locker @ Water Place, B1 Carpark Near Tower D and Beside Parcel Santa, S436931",
+    "lat": 1.296702,
+    "lng": 103.872454,
+    "orders": 120
+  },
+  {
+    "id": 6617,
+    "name": "SPX Locker @ Bugis+, L1 Beside Vending Machines, S188067",
+    "lat": 1.299553,
+    "lng": 103.854269,
+    "orders": 680
+  },
+  {
+    "id": 6575,
+    "name": "SPX Locker @ A&B Laundry @ Blk 146 Jalan Bukit Merah, S160146",
+    "lat": 1.277796,
+    "lng": 103.830796,
+    "orders": 120
+  },
+  {
+    "id": 6420,
+    "name": "SPX Locker @ Sentosa Cove, L2 Opposite 7-11, S098537",
+    "lat": 1.24698,
+    "lng": 103.839696,
+    "orders": 160
+  },
+  {
+    "id": 6530,
+    "name": "SPX Locker @ Laundromat @ 132 Bukit Merah, S160132",
+    "lat": 1.278822,
+    "lng": 103.828298,
+    "orders": 200
+  },
+  {
+    "id": 6607,
+    "name": "SPX Locker @ Textile Centre, L2 Beside Lift 7 & 8, S199018",
+    "lat": 1.303778,
+    "lng": 103.861276,
+    "orders": 200
+  },
+  {
+    "id": 6517,
+    "name": "SPX Locker @ Stevie Wash @ 107 Jalan Bukit Merah, S160107",
+    "lat": 1.279887,
+    "lng": 103.824449,
+    "orders": 108
+  },
+  {
+    "id": 6573,
+    "name": "SPX Locker @ Speed Wash Singapore @ 38 Telok Blangah Rise, S090038",
+    "lat": 1.272235,
+    "lng": 103.821983,
+    "orders": 80
+  },
+  {
+    "id": 6433,
+    "name": "[Skyline Residences Residents Only] SPX Locker @ Skyline Residences Condo, B1 Carpark, Near Block 608, S109030",
+    "lat": 1.271766,
+    "lng": 103.807637,
+    "orders": 108
+  },
+  {
+    "id": 6619,
+    "name": "SPX Locker @ The Rainforest Sports Hub, L1 Near the Cafe, 119072",
+    "lat": 1.283154,
+    "lng": 103.780553,
+    "orders": 300
+  }
+]
