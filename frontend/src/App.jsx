@@ -14,7 +14,7 @@ const STACK = [
 const STEPS = [
   { n: "1", title: "Load", body: "317 real SPX Express locker locations are loaded, each weighted by parcel capacity." },
   { n: "2", title: "Seed", body: "K starting warehouse positions are placed intelligently using K-Means++ initialisation to avoid poor clusters." },
-  { n: "3", title: "Assign", body: "Every locker is assigned to its nearest warehouse using the Haversine formula — real geographic distance, not flat Euclidean." },
+  { n: "3", title: "Assign", body: "Every locker is assigned to its nearest warehouse using the Haversine formula - real geographic distance, not flat Euclidean." },
   { n: "4", title: "Update", body: "Each warehouse centroid shifts to the demand-weighted average of its lockers. Higher-capacity lockers pull harder." },
   { n: "5", title: "Converge", body: "Steps 3–4 repeat until centroids stop moving. Runs 10 times, keeps the best result to avoid local optima." },
 ];
@@ -42,7 +42,7 @@ export default function App() {
           <h2 className="text-lg font-bold text-gray-800 mb-2">What is LocateIQ?</h2>
           <p className="text-sm text-gray-600 leading-relaxed">
             LocateIQ is a warehouse location optimiser built for Singapore e-commerce sellers.
-            It analyses the real <span className="font-medium text-red-600">SPX Express locker network</span> — 317 locations island-wide —
+            It analyses the real <span className="font-medium text-red-600">SPX Express locker network</span> - 317 locations island-wide -
             and recommends the optimal placement for your fulfillment centres to minimise total delivery distance across the network.
             Tell it how many warehouses you want to run, click a button, and get a data-driven answer.
           </p>
@@ -52,7 +52,7 @@ export default function App() {
         <div className="bg-white rounded-2xl shadow-md p-6">
           <h2 className="text-lg font-bold text-gray-800 mb-1">How It Works</h2>
           <p className="text-sm text-gray-500 mb-5">
-            Powered by <span className="font-medium text-gray-700">K-Means Clustering</span> — unsupervised machine learning that groups data points by proximity without needing labelled training data.
+            Powered by <span className="font-medium text-gray-700">K-Means Clustering</span> - unsupervised machine learning that groups data points by proximity without needing labelled training data.
           </p>
           <div className="space-y-3">
             {STEPS.map((s) => (
