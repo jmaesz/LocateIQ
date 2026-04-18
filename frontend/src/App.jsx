@@ -19,8 +19,9 @@ export default function App() {
         <WarehouseOptimiser />
       </main>
 
-      <footer className="text-center text-xs text-gray-400 pb-8">
-        Data: SPX Express Singapore · Nominatim (OpenStreetMap)
+      <footer className="text-center text-xs text-gray-400 pb-8 space-y-1">
+        <p>Data: SPX Express Singapore · OpenStreetMap</p>
+        <p>© 2026 Ng Jin Yi James. All rights reserved.</p>
       </footer>
     </div>
   );

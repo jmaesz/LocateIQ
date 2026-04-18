@@ -2,7 +2,33 @@
 
 *Find your optimal fulfillment location, powered by real SPX data.*
 
-A Singapore-focused warehouse location optimiser that uses demand-weighted K-means clustering on real SPX Express locker data to recommend optimal fulfillment centre placement across Singapore. Select K, click run, and see which locations minimise total delivery distance across the locker network.
+---
+
+## What It Is
+
+LocateIQ is a Singapore-focused warehouse location optimiser built for Shopee sellers and e-commerce logistics teams. It analyses the real SPX Express locker network across Singapore and recommends the optimal number and placement of fulfillment centres to minimise total delivery distance to those lockers.
+
+Rather than guessing where to base your stock, LocateIQ lets you set how many warehouses you want to operate, runs the algorithm, and shows you exactly where each warehouse should be — and which lockers it would serve.
+
+---
+
+## How It Works
+
+LocateIQ uses **K-Means Clustering**, a form of **unsupervised machine learning** that groups data points by proximity without needing labelled training data.
+
+Here's the process:
+
+1. **Data** — 317 real SPX Express locker locations across Singapore are loaded, each weighted by their parcel capacity (how many orders they can hold).
+
+2. **Initialisation (K-Means++)** — K initial warehouse positions are seeded intelligently, spread across the map to avoid poor starting points.
+
+3. **Assignment** — Every locker is assigned to its nearest warehouse centroid using the Haversine formula (real geographic distance on a sphere, not flat Euclidean distance).
+
+4. **Update** — Each warehouse centroid moves to the demand-weighted average position of its assigned lockers. Lockers with higher capacity pull the centroid harder.
+
+5. **Repeat** — Steps 3–4 repeat until the centroids stop moving (convergence). The algorithm runs 10 times with different starting points and keeps the best result to avoid local optima.
+
+The output is K warehouse locations that collectively minimise the total weighted distance across the entire SPX locker network — giving you a data-driven answer to where your stock should be.
 
 ---
 
@@ -10,22 +36,12 @@ A Singapore-focused warehouse location optimiser that uses demand-weighted K-mea
 
 | Layer | Technology |
 |-------|-----------|
-| Frontend | React 19 + Vite 6 + Tailwind CSS v4 |
+| Frontend | React 19 + Vite 6 |
+| Styling | Tailwind CSS v4 |
 | Map | React-Leaflet + OpenStreetMap |
-| Clustering | K-Means++ (JavaScript, runs in browser) |
-| SPX Data | Fetched from SPX Express API via `scripts/fetch_spx.py` |
-| Backend (local only) | FastAPI + Uvicorn + scikit-learn |
-
----
-
-## Features
-
-- **317 real SPX locker locations** fetched from the SPX Express API and baked into the app
-- **Demand-weighted K-means++** — locker capacity pulls the centroid harder than low-capacity ones
-- **K = 1–10 warehouses** selectable via slider
-- **Runs entirely in the browser** — no backend required at runtime
-- **Interactive map** — locker circles sized by capacity, coloured by cluster, 🏭 pin at each optimal warehouse location
-- **Cluster cards** — orders served, locker count, weighted average distance per warehouse zone
+| Clustering | K-Means++ implemented in vanilla JavaScript, runs entirely in the browser |
+| Data | 317 SPX Express locker locations fetched via SPX API, stored as static JSON |
+| Deployment | Vercel (static frontend, no backend required) |
 
 ---
 
@@ -87,19 +103,11 @@ This fetches live data from the SPX Express API across a 46-point grid covering 
 
 ---
 
-## Backend (Local Only)
-
-The FastAPI backend is included for local experimentation but is **not used by the deployed app**. The frontend runs K-means entirely in the browser.
-
-```bash
-cd backend
-pip install -r requirements.txt
-python -m uvicorn main:app --reload
-```
-
----
-
 ## Data Sources
 
 - [SPX Express](https://spx.sg/service-point/around) — real locker locations + capacities
 - [OpenStreetMap](https://www.openstreetmap.org/) — map tiles via React-Leaflet
+
+---
+
+© 2026 Ng Jin Yi James. All rights reserved.
