@@ -34,14 +34,23 @@ The output is K warehouse locations that collectively minimise the total weighte
 
 ## Tech Stack
 
+### Frontend
 | Layer | Technology |
 |-------|-----------|
-| Frontend | React 19 + Vite 6 |
+| Framework | React 19 + Vite 6 |
 | Styling | Tailwind CSS v4 |
 | Map | React-Leaflet + OpenStreetMap |
-| Clustering | K-Means++ implemented in vanilla JavaScript, runs entirely in the browser |
-| Data | 317 SPX Express locker locations fetched via SPX API, stored as static JSON |
-| Deployment | Vercel (static frontend, no backend required) |
+| Clustering | K-Means++ in vanilla JavaScript |
+| Data | 317 SPX Express locker locations (static JSON) |
+
+### Backend
+| Layer | Technology |
+|-------|-----------|
+| API | FastAPI + Uvicorn |
+| Clustering | scikit-learn (K-Means with sample weights) |
+| HTTP Client | httpx |
+| SPX Data | Fetched live from SPX Express API with 6hr cache |
+| Reverse Geocoding | Nominatim (OpenStreetMap) |
 
 ---
 
@@ -63,11 +72,15 @@ LocateIQ/
 │       └── components/
 │           ├── WarehouseOptimiser.jsx
 │           └── ClusterMap.jsx
-└── backend/                      # Local development only, not deployed
-    ├── main.py
+└── backend/
+    ├── main.py                   # FastAPI entry point
     ├── requirements.txt
     ├── routers/
+    │   └── warehouse.py          # POST /api/warehouse/optimise
     └── services/
+        ├── spx.py                # SPX Express API + caching
+        ├── kmeans_warehouse.py   # scikit-learn K-means
+        └── onemap.py             # OneMap geocoding
 ```
 
 ---
@@ -77,8 +90,9 @@ LocateIQ/
 ### Prerequisites
 
 - Node.js 18+
+- Python 3.11+
 
-### Run the frontend
+### Frontend
 
 ```bash
 cd frontend
@@ -88,24 +102,33 @@ npm run dev
 
 App runs at `http://localhost:5173`
 
+### Backend
+
+```bash
+cd backend
+pip install -r requirements.txt
+python -m uvicorn main:app --reload
+```
+
+API runs at `http://localhost:8000`
+
 ---
 
 ## Refreshing SPX Locker Data
-
-The locker data is pre-fetched and committed to the repo. To update it:
 
 ```bash
 pip install httpx
 python scripts/fetch_spx.py
 ```
 
-This fetches live data from the SPX Express API across a 46-point grid covering all of Singapore, deduplicates by locker ID, and overwrites `frontend/src/data/spx_lockers.json`.
+Fetches live data from the SPX Express API across a 46-point grid covering all of Singapore and overwrites `frontend/src/data/spx_lockers.json`.
 
 ---
 
 ## Data Sources
 
 - [SPX Express](https://spx.sg/service-point/around) — real locker locations + capacities
+- [OneMap API](https://www.onemap.gov.sg/apidocs/) — Singapore Land Authority geocoding
 - [OpenStreetMap](https://www.openstreetmap.org/) — map tiles via React-Leaflet
 
 ---

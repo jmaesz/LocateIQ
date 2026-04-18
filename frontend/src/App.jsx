@@ -4,9 +4,11 @@ const STACK = [
   { label: "React 19 + Vite 6", desc: "Frontend framework" },
   { label: "Tailwind CSS v4", desc: "Styling" },
   { label: "React-Leaflet", desc: "Interactive map" },
-  { label: "K-Means++ (JS)", desc: "Runs in browser, no server" },
+  { label: "K-Means++ (JS)", desc: "Clustering, runs in browser" },
+  { label: "FastAPI + Uvicorn", desc: "Backend API" },
+  { label: "scikit-learn", desc: "Python K-means clustering" },
   { label: "SPX Express API", desc: "317 real locker locations" },
-  { label: "Vercel", desc: "Deployment" },
+  { label: "OneMap API", desc: "Singapore geocoding (SLA)" },
 ];
 
 const STEPS = [
