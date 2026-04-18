@@ -30,13 +30,13 @@ export default function WarehouseOptimiser() {
             <input
               type="range"
               min={1}
-              max={10}
+              max={20}
               value={k}
               onChange={(e) => setK(Number(e.target.value))}
               className="w-48 accent-red-600"
             />
             <div className="flex justify-between text-xs text-gray-400 w-48">
-              <span>1</span><span>3</span><span>5</span><span>7</span><span>10</span>
+              <span>1</span><span>5</span><span>10</span><span>15</span><span>20</span>
             </div>
           </div>
 
