@@ -3,12 +3,45 @@ import ClusterMap from "./ClusterMap";
 import { weightedKMeans } from "../utils/kmeans";
 import lockerData from "../data/spx_lockers.json";
 
+async function reverseGeocode(lat, lng) {
+  try {
+    const res = await fetch(
+      `https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lng}&format=json`,
+      { headers: { "Accept-Language": "en" } }
+    );
+    const data = await res.json();
+    const a = data.address || {};
+    const parts = [
+      a.road || a.neighbourhood,
+      a.suburb || a.town || a.city_district,
+      "Singapore",
+    ].filter(Boolean);
+    return parts.join(", ");
+  } catch {
+    return null;
+  }
+}
+
 export default function WarehouseOptimiser() {
   const [k, setK] = useState(3);
   const [result, setResult] = useState(null);
+  const [loading, setLoading] = useState(false);
 
-  function handleRun() {
-    setResult(weightedKMeans(lockerData, k));
+  async function handleRun() {
+    setLoading(true);
+    const kmResult = weightedKMeans(lockerData, k);
+
+    // Reverse geocode each centroid with 1s delay between calls (Nominatim rate limit)
+    const clusters = [...kmResult.clusters];
+    for (let i = 0; i < clusters.length; i++) {
+      clusters[i] = { ...clusters[i], address: null };
+      const address = await reverseGeocode(clusters[i].centroid_lat, clusters[i].centroid_lng);
+      clusters[i].address = address;
+      if (i < clusters.length - 1) await new Promise((r) => setTimeout(r, 1100));
+    }
+
+    setResult({ ...kmResult, clusters });
+    setLoading(false);
   }
 
   return (
@@ -40,12 +73,13 @@ export default function WarehouseOptimiser() {
             </div>
           </div>
 
-            <button
-              onClick={handleRun}
-              className="bg-red-600 hover:bg-red-700 text-white font-semibold px-6 py-2.5 rounded-xl transition-colors"
-            >
-              Find Optimal Locations
-            </button>
+          <button
+            onClick={handleRun}
+            disabled={loading}
+            className="bg-red-600 hover:bg-red-700 disabled:opacity-50 text-white font-semibold px-6 py-2.5 rounded-xl transition-colors"
+          >
+            {loading ? "Finding locations..." : "Find Optimal Locations"}
+          </button>
         </div>
       </div>
 
@@ -84,6 +118,14 @@ export default function WarehouseOptimiser() {
                     Cluster {cluster.id + 1}
                   </span>
                 </div>
+
+                {cluster.address ? (
+                  <p className="text-sm text-gray-600 mb-3">
+                    📍 {cluster.address}
+                  </p>
+                ) : (
+                  <p className="text-xs text-gray-400 mb-3 animate-pulse">Fetching address...</p>
+                )}
 
                 <div className="grid grid-cols-2 gap-2 text-center">
                   <div className="bg-gray-50 rounded-lg p-2">
