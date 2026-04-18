@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import ClusterMap from "./ClusterMap";
 import { weightedKMeans } from "../utils/kmeans";
 import lockerData from "../data/spx_lockers.json";
@@ -7,10 +7,9 @@ export default function WarehouseOptimiser() {
   const [k, setK] = useState(3);
   const [result, setResult] = useState(null);
 
-  useEffect(() => {
-    const r = weightedKMeans(lockerData, k);
-    setResult(r);
-  }, [k]);
+  function handleRun() {
+    setResult(weightedKMeans(lockerData, k));
+  }
 
   return (
     <div className="space-y-6">
@@ -40,6 +39,13 @@ export default function WarehouseOptimiser() {
               <span>1</span><span>3</span><span>5</span><span>7</span><span>10</span>
             </div>
           </div>
+
+            <button
+              onClick={handleRun}
+              className="bg-red-600 hover:bg-red-700 text-white font-semibold px-6 py-2.5 rounded-xl transition-colors"
+            >
+              Find Optimal Locations
+            </button>
         </div>
       </div>
 
